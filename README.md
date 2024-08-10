@@ -1,7 +1,7 @@
 # UAV_Detection
 Trained using Ultralytics YOLOV8 API
 
-Annotated using Roboflow
+Annotated using Roboflow.
 
 Kaggle Link:https://www.kaggle.com/datasets/div456/uav-5000-imgs
 
